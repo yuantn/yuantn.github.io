@@ -51,7 +51,7 @@ body {
 
 #layout-menu a {
 	line-height: 1.5em;
-	margin-left: 0.5em;
+	margin-left: 0em;
 }
 
 tt {
@@ -272,7 +272,7 @@ dt {
 }
 
 dl {
-	margin-left: 20px;
+	margin-left: 0px;
 }
 
 dd {
